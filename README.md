@@ -7,6 +7,7 @@ To maintain previous recored used localstorage.
 
 To run code:-
     npm install 
+    npm run build
     npm start
 
 To run test case:-
