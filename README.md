@@ -12,10 +12,6 @@ To run code:-
 
 To run test case:-
     npm test
-
-Future scope:-
-   storing notes on server to maintain previous state 
-   100% coverage
    
 
 
